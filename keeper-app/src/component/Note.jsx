@@ -2,7 +2,7 @@ import React from "react"
 
 
 function Note(){
-    return <div>
+    return <div className="note">
         <h1>Keeper App</h1>
         <p>lorem islpum</p>
     </div>
